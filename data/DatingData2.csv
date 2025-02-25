@@ -1,0 +1,501 @@
+﻿User_ID,Hobbies,Favorite_Music,Ideal_First_Date,Relationship_Type
+1,"Reading, Traveling",Indie,Coffee Shop,Long-term
+2,"Movies, Sports",Pop,Movie Night,Casual
+3,"Cooking, Gaming",Rock,Dinner at Home,Long-term
+4,"Hiking, Music",Jazz,Picnic,Casual
+5,"Art, Photography",Classical,Art Gallery,Long-term
+6,"Fitness, Traveling",Hip-Hop,Outdoor Adventure,Casual
+7,"Reading, Writing",Alternative,Bookstore,Long-term
+8,"Sports, Music",Country,Concert,Casual
+9,"Traveling, Cooking",R&B,Beach Day,Long-term
+10,"Hiking, Fitness",EDM,Amusement Park,Casual
+11,"Dancing, Painting",Reggae,Wine Tasting,Long-term
+12,"Gaming, Coding",Metal,Escape Room,Casual
+13,"Photography, Writing",Indie,Nature Walk,Long-term
+14,"Cooking, Sports",Pop,Cooking Class,Casual
+15,"Traveling, Yoga",Classical,Spa Day,Long-term
+16,"Reading, Hiking",Jazz,Botanical Garden,Casual
+17,"Music, Sports",EDM,Live Music,Long-term
+18,"Fitness, Art",Rock,Art Exhibit,Casual
+19,"Traveling, Cooking",Hip-Hop,Food Festival,Long-term
+20,"Gaming, Music",Alternative,Karaoke Night,Casual
+21,"Reading, Fitness",Country,Picnic in the Park,Long-term
+22,"Dancing, Traveling",Indie,Dance Class,Casual
+23,"Photography, Hiking",R&B,Photography Walk,Long-term
+24,"Cooking, Sports",Pop,Bowling Night,Casual
+25,"Reading, Music",Jazz,Coffee Tasting,Long-term
+26,"Traveling, Crafting",Folk,Pottery Class,Casual
+27,"Gaming, Hiking",Indie,Rock Climbing,Long-term
+28,"Photography, Cooking",Rock,Dinner Cruise,Casual
+29,"Fitness, Writing",Classical,Yoga Retreat,Long-term
+30,"Dancing, Traveling",Pop,Dance Show,Casual
+31,"Cooking, Reading",R&B,Candlelit Dinner,Long-term
+32,"Traveling, Sports",Country,Sports Game,Casual
+33,"Gaming, Music",EDM,Music Festival,Long-term
+34,"Photography, Fitness",Jazz,Fitness Class,Casual
+35,"Cooking, Hiking",Indie,Nature Cookout,Long-term
+36,"Reading, Dancing",Alternative,Theater Show,Casual
+37,"Traveling, Art",Classical,Art Walk,Long-term
+38,"Fitness, Movies",Pop,Outdoor Movie Night,Casual
+39,"Hiking, Photography",R&B,Scenic Drive,Long-term
+40,"Gaming, Cooking",EDM,Game Night,Casual
+41,"Reading, Traveling",Indie,Coffee Tasting,Long-term
+42,"Dancing, Sports",Pop,Dance Party,Casual
+43,"Cooking, Fitness",Rock,Healthy Cooking Class,Long-term
+44,"Traveling, Writing",Jazz,Book Reading,Casual
+45,"Photography, Hiking",Alternative,Photo Shoot,Long-term
+46,"Cooking, Movies",Indie,Movie Marathon,Casual
+47,"Traveling, Art",Country,Art Museum Visit,Long-term
+48,"Gaming, Fitness",Hip-Hop,Fitness Challenge,Casual
+49,"Reading, Dancing",R&B,Dance Class,Long-term
+50,"Cooking, Sports",Pop,Cooking Competition,Casual
+51,"Traveling, Music",Classical,Symphony Concert,Long-term
+52,"Fitness, Hiking",EDM,Outdoor Concert,Casual
+53,"Dancing, Photography",Jazz,Photo Booth Fun,Long-term
+54,"Cooking, Games",Indie,Board Game Night,Casual
+55,"Traveling, Sports",Rock,Adventure Sports,Long-term
+56,"Gaming, Crafting",Alternative,Craft Night,Casual
+57,"Reading, Traveling",Country,Travel Show,Long-term
+58,"Dancing, Fitness",Pop,Fitness Dance Class,Casual
+59,"Cooking, Photography",Indie,Food Photography,Long-term
+60,"Traveling, Art",Folk,Art Fair,Casual
+61,"Photography, Hiking",Indie,Nature Photography,Long-term
+62,"Cooking, Sports",Jazz,Cooking for Two,Casual
+63,"Gaming, Writing",Rock,Storytelling Night,Long-term
+64,"Reading, Traveling",EDM,Destination Dinner,Casual
+65,"Dancing, Fitness",R&B,Fitness Challenge,Long-term
+66,"Cooking, Movies",Country,Dinner and a Movie,Casual
+67,"Traveling, Sports",Pop,Outdoor Adventure,Long-term
+68,"Photography, Crafting",Indie,Craft Workshop,Casual
+69,"Cooking, Hiking",Rock,Nature Cookout,Long-term
+70,"Reading, Gaming",Jazz,Game Night,Casual
+71,"Traveling, Fitness",Pop,Adventure Hiking,Long-term
+72,"Dancing, Photography",R&B,Dance Showcase,Casual
+73,"Cooking, Movies",Indie,Film Festival,Long-term
+74,"Traveling, Writing",Classical,Poetry Reading,Casual
+75,"Gaming, Sports",Hip-Hop,Game Day,Long-term
+76,"Reading, Traveling",EDM,Travel Vlog Night,Casual
+77,"Dancing, Fitness",Rock,Zumba Class,Long-term
+78,"Cooking, Photography",Alternative,Food Photography,Casual
+79,"Traveling, Art",Country,Art Class,Long-term
+80,"Fitness, Hiking",Pop,Yoga in the Park,Casual
+81,"Reading, Sports",Jazz,Sports Event,Long-term
+82,"Gaming, Dancing",Indie,Dance Off,Casual
+83,"Cooking, Movies",Classical,Movie Night in,Long-term
+84,"Traveling, Photography",R&B,Travel Photography Class,Casual
+85,"Dancing, Crafting",EDM,Craft Party,Long-term
+86,"Cooking, Fitness",Rock,Healthy Cooking Workshop,Casual
+87,"Traveling, Sports",Pop,Outdoor Sports,Long-term
+88,"Photography, Gaming",Hip-Hop,Gaming Event,Casual
+89,"Reading, Traveling",Indie,Coffee Date,Long-term
+90,"Dancing, Movies",R&B,Musical Theater,Casual
+91,"Cooking, Fitness",Alternative,Fitness Cooking Class,Long-term
+92,"Traveling, Art",Classical,Museum Gallery,Casual
+93,"Gaming, Hiking",Country,Adventure Hiking,Long-term
+94,"Photography, Cooking",Pop,Food Tasting,Casual
+95,"Dancing, Sports",Indie,Sports Class,Long-term
+96,"Traveling, Reading",EDM,Bookstore Visit,Casual
+97,"Cooking, Photography",Jazz,Photography Walk,Long-term
+98,"Fitness, Movies",Rock,Movie Marathon,Casual
+99,"Traveling, Gaming",R&B,Game Night,Long-term
+100,"Dancing, Crafting",Pop,Craft Night,Casual
+101,"Reading, Traveling",Indie,Coffee Shop,Long-term
+102,"Movies, Sports",Pop,Movie Night,Casual
+103,"Cooking, Gaming",Rock,Dinner at Home,Long-term
+104,"Hiking, Music",Jazz,Picnic,Casual
+105,"Art, Photography",Classical,Art Gallery,Long-term
+106,"Fitness, Traveling",Hip-Hop,Outdoor Adventure,Casual
+107,"Reading, Writing",Alternative,Bookstore,Long-term
+108,"Sports, Music",Country,Concert,Casual
+109,"Traveling, Cooking",R&B,Beach Day,Long-term
+110,"Hiking, Fitness",EDM,Amusement Park,Casual
+111,"Dancing, Painting",Reggae,Wine Tasting,Long-term
+112,"Gaming, Coding",Metal,Escape Room,Casual
+113,"Photography, Writing",Indie,Nature Walk,Long-term
+114,"Cooking, Sports",Pop,Cooking Class,Casual
+115,"Traveling, Yoga",Classical,Spa Day,Long-term
+116,"Reading, Hiking",Jazz,Botanical Garden,Casual
+117,"Music, Sports",EDM,Live Music,Long-term
+118,"Fitness, Art",Rock,Art Exhibit,Casual
+119,"Traveling, Cooking",Hip-Hop,Food Festival,Long-term
+120,"Gaming, Music",Alternative,Karaoke Night,Casual
+121,"Reading, Fitness",Country,Picnic in the Park,Long-term
+122,"Dancing, Traveling",Indie,Dance Class,Casual
+123,"Photography, Hiking",R&B,Photography Walk,Long-term
+124,"Cooking, Sports",Pop,Bowling Night,Casual
+125,"Reading, Music",Jazz,Coffee Tasting,Long-term
+126,"Traveling, Crafting",Folk,Pottery Class,Casual
+127,"Gaming, Hiking",Indie,Rock Climbing,Long-term
+128,"Photography, Cooking",Rock,Dinner Cruise,Casual
+129,"Fitness, Writing",Classical,Yoga Retreat,Long-term
+130,"Dancing, Traveling",Pop,Dance Show,Casual
+131,"Cooking, Reading",R&B,Candlelit Dinner,Long-term
+132,"Traveling, Sports",Country,Sports Game,Casual
+133,"Gaming, Music",EDM,Music Festival,Long-term
+134,"Photography, Fitness",Jazz,Fitness Class,Casual
+135,"Cooking, Hiking",Indie,Nature Cookout,Long-term
+136,"Reading, Dancing",Alternative,Theater Show,Casual
+137,"Traveling, Art",Classical,Art Walk,Long-term
+138,"Fitness, Movies",Pop,Outdoor Movie Night,Casual
+139,"Hiking, Photography",R&B,Scenic Drive,Long-term
+140,"Gaming, Cooking",EDM,Game Night,Casual
+141,"Reading, Traveling",Indie,Coffee Tasting,Long-term
+142,"Dancing, Sports",Pop,Dance Party,Casual
+143,"Cooking, Fitness",Rock,Healthy Cooking Class,Long-term
+144,"Traveling, Writing",Jazz,Book Reading,Casual
+145,"Photography, Hiking",Alternative,Photo Shoot,Long-term
+146,"Cooking, Movies",Indie,Movie Marathon,Casual
+147,"Traveling, Art",Country,Art Museum Visit,Long-term
+148,"Gaming, Fitness",Hip-Hop,Fitness Challenge,Casual
+149,"Reading, Dancing",R&B,Dance Class,Long-term
+150,"Cooking, Sports",Pop,Cooking Competition,Casual
+151,"Traveling, Music",Classical,Symphony Concert,Long-term
+152,"Fitness, Hiking",EDM,Outdoor Concert,Casual
+153,"Dancing, Photography",Jazz,Photo Booth Fun,Long-term
+154,"Cooking, Games",Indie,Board Game Night,Casual
+155,"Traveling, Sports",Rock,Adventure Sports,Long-term
+156,"Gaming, Crafting",Alternative,Craft Night,Casual
+157,"Reading, Traveling",Country,Travel Show,Long-term
+158,"Dancing, Fitness",Pop,Fitness Dance Class,Casual
+159,"Cooking, Photography",Indie,Food Photography,Long-term
+160,"Traveling, Art",Folk,Art Fair,Casual
+161,"Photography, Hiking",Indie,Nature Photography,Long-term
+162,"Cooking, Sports",Jazz,Cooking for Two,Casual
+163,"Gaming, Writing",Rock,Storytelling Night,Long-term
+164,"Reading, Traveling",EDM,Destination Dinner,Casual
+165,"Dancing, Fitness",R&B,Fitness Challenge,Long-term
+166,"Cooking, Movies",Country,Dinner and a Movie,Casual
+167,"Traveling, Sports",Pop,Outdoor Adventure,Long-term
+168,"Photography, Crafting",Indie,Craft Workshop,Casual
+169,"Cooking, Hiking",Rock,Nature Cookout,Long-term
+170,"Reading, Gaming",Jazz,Game Night,Casual
+171,"Traveling, Fitness",Pop,Adventure Hiking,Long-term
+172,"Dancing, Photography",R&B,Dance Showcase,Casual
+173,"Cooking, Movies",Indie,Film Festival,Long-term
+174,"Traveling, Writing",Classical,Poetry Reading,Casual
+175,"Gaming, Sports",Hip-Hop,Game Day,Long-term
+176,"Reading, Traveling",EDM,Travel Vlog Night,Casual
+177,"Dancing, Fitness",Rock,Zumba Class,Long-term
+178,"Cooking, Photography",Alternative,Food Photography,Casual
+179,"Traveling, Art",Country,Art Class,Long-term
+180,"Fitness, Hiking",Pop,Yoga in the Park,Casual
+181,"Reading, Sports",Jazz,Sports Event,Long-term
+182,"Gaming, Dancing",Indie,Dance Off,Casual
+183,"Cooking, Movies",Classical,Movie Night in,Long-term
+184,"Traveling, Photography",R&B,Travel Photography Class,Casual
+185,"Dancing, Crafting",EDM,Craft Party,Long-term
+186,"Cooking, Fitness",Rock,Healthy Cooking Workshop,Casual
+187,"Traveling, Sports",Pop,Outdoor Sports,Long-term
+188,"Photography, Gaming",Hip-Hop,Gaming Event,Casual
+189,"Reading, Traveling",Indie,Coffee Date,Long-term
+190,"Dancing, Movies",R&B,Musical Theater,Casual
+191,"Cooking, Fitness",Alternative,Fitness Cooking Class,Long-term
+192,"Traveling, Art",Classical,Museum Gallery,Casual
+193,"Gaming, Hiking",Country,Adventure Hiking,Long-term
+194,"Photography, Cooking",Pop,Food Tasting,Casual
+195,"Dancing, Sports",Indie,Sports Class,Long-term
+196,"Traveling, Reading",EDM,Bookstore Visit,Casual
+197,"Cooking, Photography",Jazz,Photography Walk,Long-term
+198,"Fitness, Movies",Rock,Movie Marathon,Casual
+199,"Traveling, Gaming",R&B,Game Night,Long-term
+200,"Dancing, Crafting",Pop,Craft Night,Casual
+201,"Reading, Traveling",Indie,Coffee Shop,Long-term
+202,"Movies, Sports",Pop,Movie Night,Casual
+203,"Cooking, Gaming",Rock,Dinner at Home,Long-term
+204,"Hiking, Music",Jazz,Picnic,Casual
+205,"Art, Photography",Classical,Art Gallery,Long-term
+206,"Fitness, Traveling",Hip-Hop,Outdoor Adventure,Casual
+207,"Reading, Writing",Alternative,Bookstore,Long-term
+208,"Sports, Music",Country,Concert,Casual
+209,"Traveling, Cooking",R&B,Beach Day,Long-term
+210,"Hiking, Fitness",EDM,Amusement Park,Casual
+211,"Dancing, Painting",Reggae,Wine Tasting,Long-term
+212,"Gaming, Coding",Metal,Escape Room,Casual
+213,"Photography, Writing",Indie,Nature Walk,Long-term
+214,"Cooking, Sports",Pop,Cooking Class,Casual
+215,"Traveling, Yoga",Classical,Spa Day,Long-term
+216,"Reading, Hiking",Jazz,Botanical Garden,Casual
+217,"Music, Sports",EDM,Live Music,Long-term
+218,"Fitness, Art",Rock,Art Exhibit,Casual
+219,"Traveling, Cooking",Hip-Hop,Food Festival,Long-term
+220,"Gaming, Music",Alternative,Karaoke Night,Casual
+221,"Reading, Fitness",Country,Picnic in the Park,Long-term
+222,"Dancing, Traveling",Indie,Dance Class,Casual
+223,"Photography, Hiking",R&B,Photography Walk,Long-term
+224,"Cooking, Sports",Pop,Bowling Night,Casual
+225,"Reading, Music",Jazz,Coffee Tasting,Long-term
+226,"Traveling, Crafting",Folk,Pottery Class,Casual
+227,"Gaming, Hiking",Indie,Rock Climbing,Long-term
+228,"Photography, Cooking",Rock,Dinner Cruise,Casual
+229,"Fitness, Writing",Classical,Yoga Retreat,Long-term
+230,"Dancing, Traveling",Pop,Dance Show,Casual
+231,"Cooking, Reading",R&B,Candlelit Dinner,Long-term
+232,"Traveling, Sports",Country,Sports Game,Casual
+233,"Gaming, Music",EDM,Music Festival,Long-term
+234,"Photography, Fitness",Jazz,Fitness Class,Casual
+235,"Cooking, Hiking",Indie,Nature Cookout,Long-term
+236,"Reading, Dancing",Alternative,Theater Show,Casual
+237,"Traveling, Art",Classical,Art Walk,Long-term
+238,"Fitness, Movies",Pop,Outdoor Movie Night,Casual
+239,"Hiking, Photography",R&B,Scenic Drive,Long-term
+240,"Gaming, Cooking",EDM,Game Night,Casual
+241,"Reading, Traveling",Indie,Coffee Tasting,Long-term
+242,"Dancing, Sports",Pop,Dance Party,Casual
+243,"Cooking, Fitness",Rock,Healthy Cooking Class,Long-term
+244,"Traveling, Writing",Jazz,Book Reading,Casual
+245,"Photography, Hiking",Alternative,Photo Shoot,Long-term
+246,"Cooking, Movies",Indie,Movie Marathon,Casual
+247,"Traveling, Art",Country,Art Museum Visit,Long-term
+248,"Gaming, Fitness",Hip-Hop,Fitness Challenge,Casual
+249,"Reading, Dancing",R&B,Dance Class,Long-term
+250,"Cooking, Sports",Pop,Cooking Competition,Casual
+251,"Traveling, Music",Classical,Symphony Concert,Long-term
+252,"Fitness, Hiking",EDM,Outdoor Concert,Casual
+253,"Dancing, Photography",Jazz,Photo Booth Fun,Long-term
+254,"Cooking, Games",Indie,Board Game Night,Casual
+255,"Traveling, Sports",Rock,Adventure Sports,Long-term
+256,"Gaming, Crafting",Alternative,Craft Night,Casual
+257,"Reading, Traveling",Country,Travel Show,Long-term
+258,"Dancing, Fitness",Pop,Fitness Dance Class,Casual
+259,"Cooking, Photography",Indie,Food Photography,Long-term
+260,"Traveling, Art",Folk,Art Fair,Casual
+261,"Photography, Hiking",Indie,Nature Photography,Long-term
+262,"Cooking, Sports",Jazz,Cooking for Two,Casual
+263,"Gaming, Writing",Rock,Storytelling Night,Long-term
+264,"Reading, Traveling",EDM,Destination Dinner,Casual
+265,"Dancing, Fitness",R&B,Fitness Challenge,Long-term
+266,"Cooking, Fitness",Hip-Hop,Cooking Class,Long-term
+267,"Traveling, Reading",R&B,Coffee Date,Casual
+268,"Gaming, Crafting",Indie,Craft Night,Long-term
+269,"Photography, Hiking",Classical,Nature Walk,Casual
+270,"Cooking, Sports",Rock,Picnic in the Park,Long-term
+271,"Reading, Traveling",Jazz,Travel Movie Night,Casual
+272,"Fitness, Dancing",Alternative,Dance Show,Long-term
+273,"Traveling, Music",Pop,Outdoor Concert,Casual
+274,"Gaming, Cooking",EDM,Game Night,Long-term
+275,"Dancing, Photography",Indie,Photo Walk,Casual
+276,"Cooking, Hiking",Country,Nature Cookout,Long-term
+277,"Reading, Writing",Jazz,Book Reading,Casual
+278,"Traveling, Fitness",Hip-Hop,Adventure Hiking,Long-term
+279,"Photography, Movies",Rock,Film Festival,Casual
+280,"Cooking, Crafting",R&B,Pottery Class,Long-term
+281,"Traveling, Arts",Classical,Art Gallery,Casual
+282,"Fitness, Dancing",Pop,Zumba Class,Long-term
+283,"Gaming, Hiking",Indie,Rock Climbing,Casual
+284,"Photography, Cooking",Jazz,Dinner Cruise,Long-term
+285,"Traveling, Sports",EDM,Sports Game,Casual
+286,"Cooking, Reading",Alternative,Candlelit Dinner,Long-term
+287,"Dancing, Crafting",Country,Craft Workshop,Casual
+288,"Reading, Fitness",R&B,Outdoor Yoga,Long-term
+289,"Traveling, Movies",Pop,Movie Night,Casual
+290,"Gaming, Photography",Indie,Photography Class,Long-term
+291,"Cooking, Hiking",Rock,Scenic Picnic,Casual
+292,"Fitness, Arts",Jazz,Art Show,Long-term
+293,"Dancing, Traveling",Hip-Hop,Dance Class,Casual
+294,"Photography, Sports",EDM,Sports Event,Long-term
+295,"Traveling, Crafting",Classical,Pottery Workshop,Casual
+296,"Cooking, Fitness",Pop,Healthy Cooking Class,Long-term
+297,"Gaming, Reading",R&B,Bookstore Date,Casual
+298,"Traveling, Music",Indie,Concert Night,Long-term
+299,"Dancing, Writing",Rock,Poetry Reading,Casual
+300,"Photography, Hiking",Jazz,Nature Photography Walk,Long-term
+301,"Cooking, Movies",Country,Dinner and a Movie,Casual
+302,"Fitness, Traveling",EDM,Outdoor Adventure,Long-term
+303,"Gaming, Crafting",Alternative,Craft Night,Casual
+304,"Reading, Sports",Pop,Sports Game,Long-term
+305,"Dancing, Yoga",Hip-Hop,Yoga Class,Casual
+306,"Photography, Cooking",Indie,Culinary Class,Long-term
+307,"Traveling, Fitness",R&B,Gym Date,Casual
+308,"Cooking, Hiking",Classical,Picnic in the Park,Long-term
+309,"Gaming, Movies",Rock,Film Night,Casual
+310,"Dancing, Photography",EDM,Dance Performance,Long-term
+311,"Traveling, Arts",Country,Gallery Opening,Casual
+312,"Cooking, Sports",Pop,Cooking Competition,Long-term
+313,"Reading, Crafting",Jazz,Craft Fair,Casual
+314,"Fitness, Dancing",Indie,Dance Party,Long-term
+315,"Photography, Traveling",R&B,Photo Exhibition,Casual
+316,"Cooking, Gaming",Classical,Game Night,Long-term
+317,"Hiking, Fitness",Hip-Hop,Outdoor Workout,Casual
+318,"Traveling, Movies",Rock,Movie Marathon,Long-term
+319,"Dancing, Reading",Pop,Book Club,Casual
+320,"Photography, Sports",EDM,Sports Clinic,Long-term
+321,"Cooking, Crafting",Alternative,DIY Workshop,Casual
+322,"Fitness, Traveling",Country,Adventure Trip,Long-term
+323,"Gaming, Music",Indie,Live Band,Casual
+324,"Dancing, Cooking",R&B,Cooking for Two,Long-term
+325,"Photography, Hiking",Jazz,Nature Hike,Casual
+326,"Traveling, Arts",Pop,Art Fair,Long-term
+327,"Fitness, Movies",Rock,Movie Date,Casual
+328,"Cooking, Reading",EDM,Literary Night,Long-term
+329,"Gaming, Traveling",Hip-Hop,Travel Game Night,Casual
+330,"Dancing, Photography",Alternative,Dance Class,Long-term
+331,"Cooking, Hiking",Classical,Nature Cookout,Casual
+332,"Traveling, Fitness",Indie,Outdoor Yoga,Long-term
+333,"Photography, Sports",R&B,Sports Event,Casual
+334,"Cooking, Crafting",Pop,Craft Night,Long-term
+335,"Fitness, Dancing",Country,Dance Party,Casual
+336,"Traveling, Movies",EDM,Outdoor Movie Night,Long-term
+337,"Gaming, Reading",Jazz,Bookstore Date,Casual
+338,"Dancing, Cooking",Indie,Cooking Class,Long-term
+339,"Photography, Hiking",Rock,Nature Photography,Casual
+340,"Traveling, Sports",Hip-Hop,Sports Day,Long-term
+341,"Cooking, Fitness",R&B,Healthy Cooking Class,Casual
+342,"Gaming, Crafting",Alternative,Craft Workshop,Long-term
+343,"Reading, Traveling",Pop,Travel Vlog Night,Casual
+344,"Dancing, Movies",Indie,Movie Night Out,Long-term
+345,"Fitness, Photography",Jazz,Photo Shoot,Casual
+346,"Cooking, Sports",EDM,Cooking Competition,Long-term
+347,"Traveling, Arts",Country,Art Workshop,Casual
+348,"Gaming, Hiking",Rock,Adventure Hike,Long-term
+349,"Dancing, Writing",R&B,Poetry Slam,Casual
+350,"Photography, Cooking",Indie,Food Tasting,Long-term
+351,"Traveling, Fitness",Pop,Fitness Retreat,Casual
+352,"Cooking, Movies",Jazz,Dinner and a Movie,Long-term
+353,"Hiking, Gaming",EDM,Game Day,Casual
+354,"Reading, Sports",Alternative,Outdoor Sports,Long-term
+355,"Traveling, Crafting",Folk,Craft Fair,Casual
+356,"Photography, Music",Indie,Concert Night,Long-term
+357,"Cooking, Dance",Pop,Dance Class,Casual
+358,"Fitness, Hiking",R&B,Yoga in the Park,Long-term
+359,"Gaming, Sports",Hip-Hop,Game Night,Casual
+360,"Traveling, Photography",Rock,Photography Walk,Long-term
+361,"Dancing, Cooking",Jazz,Culinary Class,Casual
+362,"Reading, Fitness",EDM,Outdoor Workout,Long-term
+363,"Traveling, Arts",Country,Gallery Opening,Casual
+364,"Gaming, Cooking",Indie,Board Game Night,Long-term
+365,"Dancing, Crafting",Pop,Craft Night,Casual
+366,"Photography, Hiking",R&B,Nature Hike,Long-term
+367,"Cooking, Movies",Jazz,Film Night,Casual
+368,"Traveling, Fitness",Hip-Hop,Fitness Challenge,Long-term
+369,"Gaming, Sports",Classical,Sports Event,Casual
+370,"Dancing, Photography",EDM,Dance Showcase,Long-term
+371,"Cooking, Traveling",Indie,Culinary Tour,Casual
+372,"Reading, Fitness",Rock,Outdoor Yoga,Long-term
+373,"Traveling, Music",R&B,Live Band,Casual
+374,"Photography, Hiking",Pop,Nature Walk,Long-term
+375,"Cooking, Crafting",Alternative,DIY Workshop,Casual
+376,"Dancing, Movies",Country,Musical Theater,Long-term
+377,"Fitness, Gaming",Indie,Game Night,Casual
+378,"Traveling, Arts",Jazz,Art Fair,Long-term
+379,"Cooking, Sports",EDM,Picnic Sports Day,Casual
+380,"Reading, Traveling",Pop,Travel Movie Night,Long-term
+381,"Dancing, Crafting",Rock,Craft Night,Casual
+382,"Photography, Fitness",Hip-Hop,Outdoor Concert,Long-term
+383,"Cooking, Hiking",Jazz,Picnic in the Park,Casual
+384,"Traveling, Movies",Indie,Film Festival,Long-term
+385,"Gaming, Music",R&B,Karaoke Night,Casual
+386,"Dancing, Cooking",Classical,Cooking Class,Long-term
+387,"Photography, Traveling",EDM,Photo Exhibition,Casual
+388,"Cooking, Fitness",Pop,Healthy Cooking Class,Long-term
+389,"Traveling, Sports",Country,Adventure Sports,Casual
+390,"Gaming, Photography",Rock,Gaming Event,Long-term
+391,"Dancing, Reading",Jazz,Book Club,Casual
+392,"Cooking, Hiking",Indie,Nature Cookout,Long-term
+393,"Traveling, Fitness",R&B,Outdoor Adventure,Casual
+394,"Photography, Movies",Pop,Film Night,Long-term
+395,"Dancing, Crafting",EDM,Craft Party,Casual
+396,"Cooking, Sports",Alternative,Cooking Competition,Long-term
+397,"Traveling, Reading",Hip-Hop,Bookstore Visit,Casual
+398,"Gaming, Movies",Classical,Movie Date,Long-term
+399,"Dancing, Fitness",Jazz,Dance Class,Casual
+400,"Photography, Cooking",Indie,Culinary Class,Long-term
+401,"Traveling, Hiking",R&B,Nature Hike,Casual
+402,"Cooking, Sports",Pop,Cooking Class,Long-term
+403,"Gaming, Fitness",Rock,Outdoor Workout,Casual
+404,"Dancing, Art",Indie,Art Gallery,Long-term
+405,"Traveling, Crafting",Classical,Craft Fair,Casual
+406,"Photography, Movies",EDM,Film Festival,Long-term
+407,"Cooking, Reading",Pop,Literary Night,Casual
+408,"Fitness, Traveling",Hip-Hop,Adventure Trip,Long-term
+409,"Gaming, Sports",R&B,Game Night,Casual
+410,"Dancing, Crafting",Rock,Craft Night,Long-term
+411,"Cooking, Hiking",Indie,Scenic Picnic,Casual
+412,"Traveling, Arts",Alternative,Art Exhibit,Long-term
+413,"Photography, Fitness",Jazz,Outdoor Yoga,Casual
+414,"Cooking, Movies",EDM,Dinner and a Movie,Long-term
+415,"Dancing, Reading",Pop,Bookstore Date,Casual
+416,"Traveling, Sports",Country,Sports Day,Long-term
+417,"Gaming, Crafting",R&B,Craft Workshop,Casual
+418,"Fitness, Traveling",Indie,Outdoor Concert,Long-term
+419,"Cooking, Dancing",Hip-Hop,Dance Class,Casual
+420,"Photography, Hiking",Rock,Nature Photography,Long-term
+421,"Cooking, Sports",Jazz,Picnic Sports Day,Casual
+422,"Traveling, Movies",EDM,Outdoor Movie Night,Long-term
+423,"Gaming, Crafting",Pop,Craft Night,Casual
+424,"Dancing, Photography",Alternative,Photo Walk,Long-term
+425,"Cooking, Fitness",Indie,Healthy Cooking Class,Casual
+426,"Traveling, Arts",R&B,Art Fair,Long-term
+427,"Gaming, Hiking",Classical,Adventure Hike,Casual
+428,"Cooking, Sports",Country,Cooking Competition,Long-term
+429,"Reading, Traveling",Rock,Travel Vlog Night,Casual
+430,"Dancing, Movies",Indie,Musical Theater,Long-term
+431,"Photography, Cooking",Pop,Food Photography,Casual
+432,"Traveling, Fitness",Hip-Hop,Fitness Challenge,Long-term
+433,"Cooking, Hiking",Jazz,Scenic Picnic,Casual
+434,"Gaming, Sports",EDM,Game Day,Long-term
+435,"Dancing, Arts",Alternative,Art Workshop,Casual
+436,"Photography, Traveling",Indie,Photo Exhibition,Long-term
+437,"Cooking, Movies",R&B,Dinner and a Movie,Casual
+438,"Traveling, Fitness",Classical,Yoga Retreat,Long-term
+439,"Gaming, Crafting",Pop,Craft Workshop,Casual
+440,"Dancing, Hiking",Jazz,Nature Hike,Long-term
+441,"Cooking, Sports",Rock,Picnic Sports Day,Casual
+442,"Traveling, Arts",EDM,Art Fair,Long-term
+443,"Photography, Movies",Hip-Hop,Film Night,Casual
+444,"Cooking, Fitness",Indie,Healthy Cooking Class,Long-term
+445,"Gaming, Sports",Pop,Sports Event,Casual
+446,"Reading, Traveling",R&B,Bookstore Visit,Long-term
+447,"Dancing, Crafting",Classical,Craft Night,Casual
+448,"Photography, Hiking",Jazz,Nature Photography,Long-term
+449,"Cooking, Movies",Rock,Dinner Date,Casual
+450,"Traveling, Sports",EDM,Adventure Sports,Long-term
+451,"Gaming, Crafting",Alternative,DIY Night,Casual
+452,"Dancing, Photography",Pop,Dance Showcase,Long-term
+453,"Cooking, Fitness",Indie,Outdoor Workout,Casual
+454,"Traveling, Arts",Hip-Hop,Art Class,Long-term
+455,"Photography, Cooking",R&B,Culinary Class,Casual
+456,"Dancing, Hiking",Rock,Nature Walk,Long-term
+457,"Cooking, Movies",Jazz,Film Festival,Casual
+458,"Traveling, Fitness",EDM,Adventure Trip,Long-term
+459,"Gaming, Sports",Country,Sports Day,Casual
+460,"Dancing, Crafting",Pop,Craft Workshop,Long-term
+461,"Photography, Traveling",Indie,Photo Exhibition,Casual
+462,"Cooking, Fitness",R&B,Healthy Cooking Class,Long-term
+463,"Traveling, Movies",Hip-Hop,Outdoor Movie Night,Casual
+464,"Gaming, Crafting",Rock,Game Night,Long-term
+465,"Dancing, Arts",Jazz,Art Fair,Casual
+466,"Cooking, Hiking",EDM,Picnic in the Park,Long-term
+467,"Traveling, Photography",Pop,Photography Walk,Casual
+468,"Gaming, Fitness",Alternative,Fitness Challenge,Long-term
+469,"Cooking, Dancing",R&B,Cooking Class,Casual
+470,"Traveling, Movies",Indie,Film Night,Long-term
+471,"Photography, Hiking",Rock,Nature Hike,Casual
+472,"Cooking, Sports",Country,Cooking Competition,Long-term
+473,"Dancing, Arts",Pop,Art Walk,Casual
+474,"Traveling, Crafting",Classical,Craft Fair,Long-term
+475,"Photography, Movies",EDM,Film Festival,Casual
+476,"Cooking, Reading",Indie,Book Club,Long-term
+477,"Fitness, Traveling",R&B,Outdoor Adventure,Casual
+478,"Gaming, Sports",Hip-Hop,Game Night,Long-term
+479,"Dancing, Crafting",Alternative,Craft Workshop,Casual
+480,"Cooking, Hiking",Indie,Nature Cookout,Long-term
+481,"Traveling, Arts",Pop,Art Gallery,Casual
+482,"Photography, Fitness",Jazz,Outdoor Yoga,Long-term
+483,"Cooking, Movies",Rock,Dinner and a Movie,Casual
+484,"Traveling, Reading",EDM,Literary Night,Long-term
+485,"Gaming, Crafting",Country,DIY Workshop,Casual
+486,"Dancing, Sports",R&B,Sports Event,Long-term
+487,"Photography, Traveling",Indie,Photo Exhibition,Casual
+488,"Cooking, Fitness",Pop,Healthy Cooking Class,Long-term
+489,"Traveling, Movies",Classical,Film Night,Casual
+490,"Gaming, Arts",Hip-Hop,Art Class,Long-term
+491,"Dancing, Cooking",EDM,Cooking Class,Casual
+492,"Photography, Hiking",R&B,Nature Photography,Long-term
+493,"Cooking, Fitness",Indie,Fitness Retreat,Casual
+494,"Traveling, Sports",Pop,Adventure Sports,Long-term
+495,"Gaming, Movies",Rock,Game Night,Casual
+496,"Reading, Traveling",Jazz,Bookstore Visit,Long-term
+497,"Dancing, Crafting",Classical,Craft Night,Casual
+498,"Photography, Cooking",Hip-Hop,Culinary Class,Long-term
+499,"Cooking, Hiking",R&B,Picnic in the Park,Casual
+500,"Traveling, Fitness",EDM,Outdoor Adventure,Long-term
